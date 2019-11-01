@@ -38,6 +38,7 @@
 	grid-column: 1;
 	grid-row: 3;
 	margin-left: 50px;
+
 }
 
 .nivo{
@@ -80,4 +81,27 @@ h3{
 	grid-row: 1;
 	font-family: 'Lato', sans-serif;
 }
-
+#huts3{
+	grid-column: 1;
+	grid-row: 3;
+	margin-top: 165px;
+	margin-left: 55px;
+	margin-right: 20px;
+	font-family: 'Lato', sans-serif;
+}
+#huts4{
+	grid-column: 2;
+	grid-row: 3;
+	margin-top: 165px;
+	margin-left: 55px;
+	margin-right: 20px;
+	font-family: 'Lato', sans-serif;
+}
+#huts5{
+	grid-column: 3;
+	grid-row: 3;
+	margin-top: 165px;
+	margin-left: 55px;
+	margin-right: 20px;
+	font-family: 'Lato', sans-serif;
+}
